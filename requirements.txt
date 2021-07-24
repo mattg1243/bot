@@ -1,0 +1,8 @@
+python-binance
+ta-lib
+pandas
+numpy
+websocket-client
+pprintpp
+mplfinance
+datetime

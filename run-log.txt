@@ -1,0 +1,781 @@
+
+   ---   websocket connected   ---   
+message received
+open : 0.21430060
+close: 0.21430060
+
+message received
+open : 0.21430060
+close: 0.21430060
+
+candle closed at 0.21430060
+
+message received
+open : 0.21430060
+close: 0.21430060
+
+message received
+open : 0.21430060
+close: 0.21430060
+
+candle closed at 0.21430060
+
+message received
+open : 0.21430060
+close: 0.21430060
+
+message received
+open : 0.21442040
+close: 0.21442040
+
+message received
+open : 0.21442040
+close: 0.21442040
+
+candle closed at 0.21442040
+
+message received
+open : 0.21442040
+close: 0.21442040
+
+message received
+open : 0.21442040
+close: 0.21442040
+
+candle closed at 0.21442040
+
+message received
+open : 0.21387400
+close: 0.21380150
+
+message received
+open : 0.21387400
+close: 0.21380150
+
+candle closed at 0.21380150
+
+message received
+open : 0.21380150
+close: 0.21380150
+
+message received
+open : 0.21380150
+close: 0.21380150
+
+candle closed at 0.21380150
+
+message received
+open : 0.21377320
+close: 0.21392280
+
+message received
+open : 0.21377320
+close: 0.21376460
+
+message received
+open : 0.21377320
+close: 0.21373170
+
+message received
+open : 0.21377320
+close: 0.21373170
+
+candle closed at 0.21373170
+
+message received
+open : 0.21373170
+close: 0.21373170
+
+message received
+open : 0.21357840
+close: 0.21357840
+
+message received
+open : 0.21357840
+close: 0.21349200
+
+message received
+open : 0.21357840
+close: 0.21331200
+
+message received
+open : 0.21357840
+close: 0.21331200
+
+candle closed at 0.21331200
+
+message received
+open : 0.21331200
+close: 0.21331200
+
+message received
+open : 0.21327230
+close: 0.21327230
+
+message received
+open : 0.21327230
+close: 0.21318790
+
+message received
+open : 0.21327230
+close: 0.21319890
+
+message received
+open : 0.21327230
+close: 0.21318800
+
+message received
+open : 0.21327230
+close: 0.21318800
+
+candle closed at 0.21318800
+
+message received
+open : 0.21318800
+close: 0.21318800
+
+message received
+open : 0.21315630
+close: 0.21315630
+
+message received
+open : 0.21315630
+close: 0.21315610
+
+message received
+open : 0.21315630
+close: 0.21315610
+
+candle closed at 0.21315610
+
+message received
+open : 0.21315610
+close: 0.21315610
+
+message received
+open : 0.21315610
+close: 0.21315610
+
+candle closed at 0.21315610
+
+message received
+open : 0.21315610
+close: 0.21315610
+
+message received
+open : 0.21315610
+close: 0.21315610
+
+candle closed at 0.21315610
+
+message received
+open : 0.21315610
+close: 0.21315610
+
+message received
+open : 0.21315610
+close: 0.21315610
+
+candle closed at 0.21315610
+
+message received
+open : 0.21315610
+close: 0.21315610
+
+message received
+open : 0.21320610
+close: 0.21320610
+
+message received
+open : 0.21320610
+close: 0.21320610
+
+candle closed at 0.21320610
+
+message received
+open : 0.21320610
+close: 0.21320610
+
+message received
+open : 0.21320610
+close: 0.21320610
+
+candle closed at 0.21320610
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851]   +++')
+   +++   last RSIs calculated :  11.84   +++
+message received
+open : 0.21320610
+close: 0.21320610
+
+message received
+open : 0.21315860
+close: 0.21315860
+
+message received
+open : 0.21315860
+close: 0.21302440
+
+message received
+open : 0.21315860
+close: 0.21297090
+
+message received
+open : 0.21315860
+close: 0.21297090
+
+candle closed at 0.21297090
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441]   +++')
+   +++   last RSIs calculated :  10.06   +++
+message received
+open : 0.21299010
+close: 0.21299010
+
+message received
+open : 0.21299010
+close: 0.21299010
+
+candle closed at 0.21299010
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021]   +++')
+   +++   last RSIs calculated :  11.23   +++
+message received
+open : 0.21299010
+close: 0.21299010
+
+message received
+open : 0.21313730
+close: 0.21313730
+
+message received
+open : 0.21313730
+close: 0.21313730
+
+candle closed at 0.21313730
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341]   '
+ '+++')
+   +++   last RSIs calculated :  19.85   +++
+message received
+open : 0.21313730
+close: 0.21313730
+
+message received
+open : 0.21297090
+close: 0.21297090
+
+message received
+open : 0.21297090
+close: 0.21294440
+
+message received
+open : 0.21297090
+close: 0.21294440
+
+candle closed at 0.21294440
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341\n'
+ ' 17.46038356]   +++')
+   +++   last RSIs calculated :  17.46   +++
+message received
+open : 0.21294440
+close: 0.21294440
+
+message received
+open : 0.21283780
+close: 0.21283780
+
+message received
+open : 0.21283780
+close: 0.21286770
+
+message received
+open : 0.21283780
+close: 0.21292100
+
+message received
+open : 0.21283780
+close: 0.21292100
+
+candle closed at 0.21292100
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341\n'
+ ' 17.46038356 17.18975654]   +++')
+   +++   last RSIs calculated :  17.19   +++
+message received
+open : 0.21292100
+close: 0.21292100
+
+message received
+open : 0.21287690
+close: 0.21287690
+
+message received
+open : 0.21287690
+close: 0.21287670
+
+message received
+open : 0.21287690
+close: 0.21301250
+
+message received
+open : 0.21287690
+close: 0.21301250
+
+candle closed at 0.21301250
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341\n'
+ ' 17.46038356 17.18975654 22.26354139]   +++')
+   +++   last RSIs calculated :  22.26   +++
+message received
+open : 0.21301250
+close: 0.21301250
+
+message received
+open : 0.21301250
+close: 0.21301250
+
+candle closed at 0.21301250
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341\n'
+ ' 17.46038356 17.18975654 22.26354139 22.26354139]   +++')
+   +++   last RSIs calculated :  22.26   +++
+message received
+open : 0.21301250
+close: 0.21301250
+
+message received
+open : 0.21301250
+close: 0.21301250
+
+candle closed at 0.21301250
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341\n'
+ ' 17.46038356 17.18975654 22.26354139 22.26354139 22.26354139]   +++')
+   +++   last RSIs calculated :  22.26   +++
+message received
+open : 0.21301250
+close: 0.21301250
+
+message received
+open : 0.21274360
+close: 0.21274360
+
+message received
+open : 0.21274360
+close: 0.21270850
+
+message received
+open : 0.21274360
+close: 0.21270850
+
+message received
+open : 0.21274360
+close: 0.21270850
+
+message received
+open : 0.21274360
+close: 0.21270850
+
+candle closed at 0.21270850
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341\n'
+ ' 17.46038356 17.18975654 22.26354139 22.26354139 22.26354139 17.7505348 ]   '
+ '+++')
+   +++   last RSIs calculated :  17.75   +++
+message received
+open : 0.21270850
+close: 0.21270850
+
+message received
+open : 0.21255440
+close: 0.21255440
+
+message received
+open : 0.21255440
+close: 0.21255440
+
+candle closed at 0.21255440
+
+('   +++   all RSIs calculated so far : [        nan         nan         '
+ 'nan         nan         nan         nan\n'
+ '         nan         nan         nan         nan         nan         nan\n'
+ '         nan         nan 11.84017851 10.06286441 11.23425021 19.85291341\n'
+ ' 17.46038356 17.18975654 22.26354139 22.26354139 22.26354139 17.7505348\n'
+ ' 15.98198909]   +++')
+   +++   last RSIs calculated :  15.98   +++
+message received
+open : 0.21255440
+close: 0.21255440
+
+message received
+open : 0.21251680
+close: 0.21251680
+
+message received
+open : 0.21251680
+close: 0.21251680
+
+
+   ---   websocket connected   ---   
+message received
+open : 0.21558910
+close: 0.21558910
+
+candle closed at 0.21558910
+
+message received
+open : 0.21542850
+close: 0.21542850
+
+message received
+open : 0.21542850
+close: 0.21543920
+
+message received
+open : 0.21542850
+close: 0.21543920
+
+candle closed at 0.21543920
+
+message received
+open : 0.21543920
+close: 0.21543920
+
+message received
+open : 0.21586770
+close: 0.21586770
+
+message received
+open : 0.21586770
+close: 0.21586770
+
+candle closed at 0.21586770
+
+message received
+open : 0.21586770
+close: 0.21586770
+
+message received
+open : 0.21595530
+close: 0.21595530
+
+message received
+open : 0.21595530
+close: 0.21596050
+
+message received
+open : 0.21595530
+close: 0.21608550
+
+message received
+open : 0.21595530
+close: 0.21603920
+
+message received
+open : 0.21595530
+close: 0.21605500
+
+message received
+open : 0.21595530
+close: 0.21608980
+
+message received
+open : 0.21595530
+close: 0.21610380
+
+message received
+open : 0.21595530
+close: 0.21615090
+
+message received
+open : 0.21595530
+close: 0.21615090
+
+candle closed at 0.21615090
+
+message received
+open : 0.21612730
+close: 0.21612730
+
+message received
+open : 0.21612730
+close: 0.21604390
+
+message received
+open : 0.21612730
+close: 0.21607490
+
+message received
+open : 0.21612730
+close: 0.21607490
+
+candle closed at 0.21607490
+
+message received
+open : 0.21607490
+close: 0.21607490
+
+message received
+open : 0.21621910
+close: 0.21621910
+
+message received
+open : 0.21621910
+close: 0.21621910
+
+candle closed at 0.21621910
+
+message received
+open : 0.21622730
+close: 0.21629120
+
+message received
+open : 0.21622730
+close: 0.21625850
+
+message received
+open : 0.21622730
+close: 0.21630000
+
+message received
+open : 0.21622730
+close: 0.21635090
+
+message received
+open : 0.21622730
+close: 0.21635090
+
+candle closed at 0.21635090
+
+message received
+open : 0.21635090
+close: 0.21635090
+
+message received
+open : 0.21651300
+close: 0.21651300
+
+message received
+open : 0.21651300
+close: 0.21651310
+
+message received
+open : 0.21651300
+close: 0.21651310
+
+candle closed at 0.21651310
+
+message received
+open : 0.21651310
+close: 0.21651310
+
+message received
+open : 0.21651310
+close: 0.21651310
+
+candle closed at 0.21651310
+
+message received
+open : 0.21651310
+close: 0.21651310
+
+message received
+open : 0.21651310
+close: 0.21651310
+
+candle closed at 0.21651310
+
+message received
+open : 0.21651310
+close: 0.21651310
+
+message received
+open : 0.21678090
+close: 0.21678090
+
+message received
+open : 0.21678090
+close: 0.21678940
+
+message received
+open : 0.21678090
+close: 0.21693450
+
+message received
+open : 0.21678090
+close: 0.21700320
+
+message received
+open : 0.21678090
+close: 0.21709020
+
+message received
+open : 0.21678090
+close: 0.21709020
+
+candle closed at 0.21709020
+
+message received
+open : 0.21709020
+close: 0.21709020
+
+message received
+open : 0.21712020
+close: 0.21712020
+
+message received
+open : 0.21712020
+close: 0.21712030
+
+message received
+open : 0.21712020
+close: 0.21733440
+
+message received
+open : 0.21712020
+close: 0.21745900
+
+message received
+open : 0.21712020
+close: 0.21751450
+
+message received
+open : 0.21712020
+close: 0.21774420
+
+message received
+open : 0.21712020
+close: 0.21774420
+
+candle closed at 0.21774420
+
+message received
+open : 0.21762490
+close: 0.21762490
+
+message received
+open : 0.21762490
+close: 0.21765930
+
+message received
+open : 0.21762490
+close: 0.21781570
+
+message received
+open : 0.21762490
+close: 0.21781570
+
+message received
+open : 0.21762490
+close: 0.21780000
+
+message received
+open : 0.21762490
+close: 0.21780000
+
+message received
+open : 0.21762490
+close: 0.21785840
+
+message received
+open : 0.21762490
+close: 0.21785870
+
+message received
+open : 0.21762490
+close: 0.21785870
+
+candle closed at 0.21785870
+
+message received
+open : 0.21773780
+close: 0.21763400
+
+message received
+open : 0.21773780
+close: 0.21765940
+
+message received
+open : 0.21773780
+close: 0.21756590
+
+message received
+open : 0.21773780
+close: 0.21756590
+
+message received
+open : 0.21773780
+close: 0.21749880
+
+message received
+open : 0.21773780
+close: 0.21749880
+
+message received
+open : 0.21773780
+close: 0.21718000
+
+message received
+open : 0.21773780
+close: 0.21746120
+
+message received
+open : 0.21773780
+close: 0.21746120
+
+message received
+open : 0.21773780
+close: 0.21746120
+
+candle closed at 0.21746120
+
+message received
+open : 0.21746120
+close: 0.21746120
+
+message received
+open : 0.21746120
+close: 0.21746120
+
+candle closed at 0.21746120
+
+   +++   all RSIs calculated so far : [        nan         nan         nan         nan         nan         nan
+         nan         nan         nan         nan         nan         nan
+         nan         nan 80.01218378]   +++
+
+   +++   last RSIs calculated :  80.01   +++
+
+RSI is giving a buy signal. Current RSI level : 80.01218378274338
+Would you like to buy? (y/n) : 
